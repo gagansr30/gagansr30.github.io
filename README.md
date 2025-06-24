@@ -1,19 +1,4 @@
-# ✨ Animated Portfolio Web Page
+## 🔗 Live Demo
 
-A simple animated personal portfolio web page built using HTML and CSS. Great for adding to your resume or GitHub profile.
-
-## 🌟 Features
-
-- CSS animations: fade-in and slide-in effects
-- Clean, responsive design
-- Modern gradient background
-- Minimal, lightweight, and easy to customize
-
-## 🚀 Live Demo
-
-🔗 [View Live Site]([[https://yourusername.github.io/animated-portfolio/](https://github.com/gagansr30/gagansr30.github.io/)](https://github.com/gagansr30/gagansr30.github.io/)
-
-> Replace `yourusername` with your actual GitHub username.
-
-## 📁 Project Structure
-
+Check out the animated portfolio here:  
+👉 [https://gagansr30.github.io](https://gagansr30.github.io)
