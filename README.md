@@ -1,19 +1,19 @@
-# 🌟 Animated Portfolio Web Page
+# ✨ Animated Portfolio Web Page
 
-This is a simple, animated personal portfolio page built using HTML and CSS. It's lightweight, modern, and perfect for showcasing your skills or linking in your resume.
+A simple animated personal portfolio web page built using HTML and CSS. Great for adding to your resume or GitHub profile.
 
-## 🎯 Features
+## 🌟 Features
 
-- ✨ CSS-based animations (fade-in, slide-in, bounce)
-- 🖥️ Responsive design
-- 📄 Resume download button
-- 🌈 Gradient background
+- CSS animations: fade-in and slide-in effects
+- Clean, responsive design
+- Modern gradient background
+- Minimal, lightweight, and easy to customize
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://yourusername.github.io/animated-portfolio/)
+🔗 [View Live Site](https://yourusername.github.io/animated-portfolio/)
 
-> Replace `yourusername` with your GitHub username.
+> Replace `yourusername` with your actual GitHub username.
 
-## 🧱 File Structure
+## 📁 Project Structure
 
