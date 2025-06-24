@@ -1,4 +1,3 @@
-/* ==== Base Styles ==== */
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
@@ -27,14 +26,15 @@ ul {
 }
 
 section, header, footer {
+  padding: 0 20px;
   margin-bottom: 40px;
 }
 
-/* ==== Skill Grid ==== */
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   gap: 10px;
+  margin-bottom: 20px;
 }
 
 .skill {
@@ -46,14 +46,14 @@ section, header, footer {
 }
 
 .skill:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
-/* ==== Projects Grid ==== */
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
+  margin-top: 20px;
 }
 
 .project-card {
@@ -61,6 +61,7 @@ section, header, footer {
   padding: 15px;
   border-radius: 10px;
   transition: transform 0.3s, background 0.3s;
+  text-align: left;
 }
 
 .project-card:hover {
@@ -68,7 +69,7 @@ section, header, footer {
   background: rgba(255, 255, 255, 0.2);
 }
 
-/* ==== Animations ==== */
+/* Animations */
 .fade-in { opacity: 0; animation: fadeIn 1.5s forwards; }
 .slide-in-left { opacity: 0; transform: translateX(-50px); animation: slideInLeft 1.5s forwards; }
 .slide-in-right { opacity: 0; transform: translateX(50px); animation: slideInRight 1.5s forwards; }
@@ -86,7 +87,7 @@ section, header, footer {
   50% { transform: translateY(-8px); }
 }
 
-/* Animation delays */
+/* Delay helpers */
 .delay-1 { animation-delay: 0.3s; }
 .delay-2 { animation-delay: 0.5s; }
 .delay-3 { animation-delay: 0.7s; }
@@ -94,11 +95,3 @@ section, header, footer {
 .delay-5 { animation-delay: 1.1s; }
 .delay-6 { animation-delay: 1.3s; }
 .delay-7 { animation-delay: 1.5s; }
-
-section.fade-in,
-section.slide-in-left,
-section.slide-in-right,
-section.zoom-in,
-section.rotate-in {
-  will-change: transform, opacity;
-}
