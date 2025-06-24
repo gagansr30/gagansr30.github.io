@@ -11,7 +11,7 @@ A simple animated personal portfolio web page built using HTML and CSS. Great fo
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://yourusername.github.io/animated-portfolio/)
+🔗 [View Live Site]([https://yourusername.github.io/animated-portfolio/](https://github.com/gagansr30/gagansr30.github.io/)
 
 > Replace `yourusername` with your actual GitHub username.
 
