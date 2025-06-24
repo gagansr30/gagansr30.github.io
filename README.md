@@ -1,4 +1,4 @@
 ## 🔗 Live Demo
 
-Check out the animated portfolio here:  
+Check out the portfolio here:  
 👉 [https://gagansr30.github.io](https://gagansr30.github.io)
