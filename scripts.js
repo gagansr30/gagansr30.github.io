@@ -1,4 +1,4 @@
-const text = "Software Engineer";
+const text = "Graduate .NET Developer";
 let i = 0;
 
 function typeWriter() {
